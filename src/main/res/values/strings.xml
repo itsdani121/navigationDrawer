@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">navigationDrawer</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="navigation_drawer_demo">Navigation Drawer Demo</string>
+</resources>
